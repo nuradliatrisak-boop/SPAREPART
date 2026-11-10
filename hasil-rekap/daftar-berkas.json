@@ -1,0 +1,77 @@
+[
+  {
+    "file": "BMS_01_Rekap_dan_Bukti.pdf",
+    "bytes": 11638040,
+    "sha256": "e6b805356b658359cb95971f66c5a6ccdf8cc51cc641362707368d72f979a56b"
+  },
+  {
+    "file": "BMS_02_Rekap_dan_Bukti.pdf",
+    "bytes": 12363143,
+    "sha256": "e3568c0405160a4d59cd9c04ef6bce7a7a736210fd57ed311ed5ec65de63cf7a"
+  },
+  {
+    "file": "BMS_03_Konfirmasi_Pak_Adi.pdf",
+    "bytes": 7449748,
+    "sha256": "88f3022cd73bc7227a43b80d8bfd98b707e448618d3ffc015a506df2be2a411a"
+  },
+  {
+    "file": "BMS_04_Konfirmasi_Pak_Adi.pdf",
+    "bytes": 8329303,
+    "sha256": "64a9701ac7a3c83dddc2d304fe2dad4bd9794ca13d38598f8b23e1b6776dd23e"
+  },
+  {
+    "file": "BMS_Contoh_1_Halaman.pdf",
+    "bytes": 149037,
+    "sha256": "86280feac15840bb95622c905d81d979b975a8d9b259fe92989ae9eba35a8fa7"
+  },
+  {
+    "file": "BMS_Excel_Unduh.zip",
+    "bytes": 26096379,
+    "sha256": "837b2f19de02cdd2ef12cfe4a18e10cf97afa6de28aaa4c7ef7c1b1be2f9a972"
+  },
+  {
+    "file": "Indeks_Chat_BMS.html",
+    "bytes": 481346,
+    "sha256": "c168b188cd4150fba7f2d89b7a7be68a84c298c92a4537956a5e4b7055ae6135"
+  },
+  {
+    "file": "Pertanyaan_Konfirmasi_Pak_Adi.txt",
+    "bytes": 72473,
+    "sha256": "31b77970b6c294125cf028a145fa9ccd3bf55b474f5e5fe898b615353f1b0881"
+  },
+  {
+    "file": "Rekap_BMS_Bukti_Ringan.pdf",
+    "bytes": 26291279,
+    "sha256": "8293cc27bf1970263ca0d3e2e68721eb748db3378d6cb3bc00e6a4e50bd72840"
+  },
+  {
+    "file": "Rekap_BMS_Bukti_Ringan.xlsx",
+    "bytes": 26151310,
+    "sha256": "1effff06708e9c76d8ee01dd5ed5a56a6816f307a5d9a9e22075e1f4caf07c0f"
+  },
+  {
+    "file": "Rekap_Sparepart_BMS_DENGAN_BUKTI.pdf",
+    "bytes": 65232954,
+    "sha256": "63360dc021462c4f17de5f71a7c2604cae1943ddf97d5156e0848f69b275cee3"
+  },
+  {
+    "file": "Rekap_Sparepart_BMS_DENGAN_BUKTI.xlsx",
+    "bytes": 51128060,
+    "sha256": "d314e7c7ec7d5667731d6f33326f21016df88f1271bc8c599aae553d772fdb0d"
+  },
+  {
+    "file": "Rekap_Sparepart_BMS_FINAL.pdf",
+    "bytes": 498929,
+    "sha256": "47e81fea6e00c4724a2b44497b7068a8c570c34a9344499dcd507eabc05b295e"
+  },
+  {
+    "file": "Rekap_Sparepart_BMS_FINAL.xlsx",
+    "bytes": 1087831,
+    "sha256": "97dc43190ad61eaea626aa86a0aa5f72d06ae13b0dc1ea6a50dd32b62448b042"
+  },
+  {
+    "file": "Teks_OCR_BMS.zip",
+    "bytes": 740480,
+    "sha256": "2059abcd94bf96f7e09f842310b5a8952c8faee2b74d48cd43d86aee847c8280"
+  }
+]

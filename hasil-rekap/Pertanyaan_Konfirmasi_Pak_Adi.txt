@@ -1,0 +1,989 @@
+Pak Adi, saya sedang mencocokkan rekap sparepart BMS dari arsip chat dan nota. Mohon bantu konfirmasi pertanyaan terlampir. Setiap nomor sudah disertai bukti chat/foto. Bapak bisa jawab sesuai nomor, dan bila ada koreksi mohon tuliskan nama barang, jumlah/satuan, harga, tujuan alat serta tanggal yang benar. Untuk yang sudah dibayar, mohon tanggal dan nominal pembayarannya. Terima kasih, Pak.
+
+K001 | M0004
+Pak Adi, untuk M0004, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Jumlah komponen 9,693,000 berbeda dari total tertulis 9,408,000.
+
+K002 | M0208
+Pak Adi, untuk M0208, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Mengandung pelunasan invoice lama 5.535.000; jangan dianggap seluruhnya sparepart baru.
+
+K003 | M0214
+Pak Adi, untuk M0214, jumlah Rp3.565.000 + Rp2.102.000 = Rp5.667.000 sudah cocok. Mohon rincian transaksi kas27Agustus dan1September serta status pelunasannya; apakah sudah tercakup dalam rekap/tagihan lain?
+
+K004 | M0495
+Pak Adi, untuk M0495, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M0520; tidak masuk subtotal indikatif.
+
+K005 | M0587
+Pak Adi, untuk M0587, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Ada nominal 1.920.00P yang tidak valid; jumlah tertulis tidak cocok dengan komponen yang dimaksud. Jumlah komponen 2,410,000 berbeda dari total tertulis 3,330,000.
+
+K006 | M0776
+Pak Adi, untuk M0776, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M0775; tidak masuk subtotal indikatif.
+
+K007 | M1056
+Pak Adi, untuk M1056, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Nominal 1.000.00 tidak lengkap; jangan diubah otomatis menjadi satu juta.
+
+K008 | M1568
+Pak Adi, untuk M1568, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Jumlah komponen 2,665,000 berbeda dari total tertulis 2,925,000.
+
+K009 | M1766
+Pak Adi, untuk M1766, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M1765; tidak masuk subtotal indikatif.
+
+K010 | M1768
+Pak Adi, untuk M1768, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M1767; tidak masuk subtotal indikatif.
+
+K011 | M1769
+Pak Adi, untuk M1769, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M1770; tidak masuk subtotal indikatif.
+
+K012 | M1773
+Pak Adi, untuk M1773, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M1772; tidak masuk subtotal indikatif.
+
+K013 | M2022
+Pak Adi, untuk M2022, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Tagihan, pembayaran dan sisa; perlu rekonsiliasi dengan M2023.
+
+K014 | M2023
+Pak Adi, untuk M2023, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Pernyataan lunas; jangan dijumlahkan dengan tagihan M2022.
+
+K015 | M2026
+Pak Adi, untuk M2026, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Nilai borongan, pembayaran dan sisa; bukan tiga transaksi.
+
+K016 | M2088
+Pak Adi, untuk M2088, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M2087; tidak masuk subtotal indikatif.
+
+K017 | M2365
+Pak Adi, untuk M2365, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Harga tiket kemudian disebut untuk 2 orang (M2366), perlu verifikasi nilai akhir.
+
+K018 | M2697
+Pak Adi, untuk M2697, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Harga 80.000 dikoreksi menjadi 800.000 di M2698; dipakai 800.000.
+
+K019 | M2698
+Pak Adi, untuk M2698, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M2697; tidak masuk subtotal indikatif.
+
+K020 | M2766
+Pak Adi, untuk M2766, mohon pastikan jumlah isi ulang yang dibayar, tarif per isi dan jumlah tabung kosong yang dikembalikan. Apakah ada pembelian/sewa tabung atau hanya isi ulang?
+Hal yang dicek: Mengandung angka tambahan 4.065.000 tanpa rincian; total perlu dicek.
+
+K021 | M2929
+Pak Adi, untuk M2929, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Pipa ditulis 197.000, tetapi M2918 menyebut 197.500 (selisih 500).
+
+K022 | M3039
+Pak Adi, untuk M3039, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Paket 1.500.000 + 1.085.000 + 630.000 belum dirinci per barang.
+
+K023 | M3217
+Pak Adi, untuk M3217, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Rujuk M3216; tidak masuk subtotal indikatif.
+
+K024 | M1066 / M1097 / M1098
+Pak Adi, untuk M1066 / M1097 / M1098, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Item usulan berjumlah 11.412.000 (tertulis 11.342.000). Nota final dibaca visual 11.052.000; karet/rubber 360.000 pada nota terpisah.
+
+K025 | M2918 / M2929
+Pak Adi, untuk M2918 / M2929, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Detail 197.500, rangkuman 197.000.
+
+K026 | M1430 / M1569
+Pak Adi, untuk M1430 / M1569, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Bisa laporan ulang; jangan otomatis dua transaksi.
+
+K027 | M1438 / M1461
+Pak Adi, untuk M1438 / M1461, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Detail pengadaan dan rangkuman biaya bukan dua transaksi terpisah.
+
+K028 | Cakupan media
+Pak Adi, apakah ada informasi barang, harga atau pembayaran penting yang hanya disampaikan lewat pesan suara/video? Mohon tuliskan rinciannya dan sebutkan tanggal/file, karena bagian suara belum ditranskripsi.
+
+K029 | Stok
+Pak Adi, apakah tersedia saldo awal, bukti barang masuk, pemakaian/keluar dan retur per barang? Mohon kirim catatan gudangnya agar stok akhir dapat dihitung.
+
+K030 | Harga nota
+Pak Adi, bila tulisan nota sulit dibaca, mohon kirim foto tegak yang lebih jelas atau ketik nama/kode barang, jumlah, satuan, harga satuan serta totalnya.
+
+K031 | M1868
+Pak Adi, untuk M1868, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K032 | M2354
+Pak Adi, untuk M2354, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K033 | M2552
+Pak Adi, untuk M2552, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Invoice tidak memisahkan pemakaian per alat; jangan membagi biaya ke Komatsu/Hitachi tanpa bukti.
+
+K034 | M2653
+Pak Adi, untuk M2653, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K035 | M2726
+Pak Adi, untuk M2726, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Daftar tulisan tangan, bukan faktur tercetak. Kuantitas satuan yang tidak ditulis tidak diasumsikan satu. Total 14.600.000 sesuai chat, beberapa baris belum pasti.
+
+K036 | M2958
+Pak Adi, untuk M2958, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Tanggal pada nota terbaca 2-11-2026, chat dikirim 3 November. Nama beberapa komponen dicocokkan dengan daftar chat; kode yang tidak jelas tidak ditebak.
+
+K037 | M3027
+Pak Adi, untuk M3027, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: M3027 menyebut paket 2.585.000; foto ini hanya nota 1.085.000. Selisih 1.500.000 perlu dicari pada lampiran lain. Jangan anggap paket dan nota sebagai dua transaksi.
+
+K038 | M3185
+Pak Adi, untuk M3185, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K039 | M3188
+Pak Adi, untuk M3188, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K040 | M3189
+Pak Adi, untuk M3189, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K041 | M3141
+Pak Adi, untuk M3141, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K042 | M3141
+Pak Adi, untuk M3141, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Pembacaan sementara baris berjumlah 1.470.000; subtotal tertulis 1.480.000. Selisih 10.000 belum diselesaikan dan tidak dipaksakan cocok.
+
+K043 | M3141
+Pak Adi, untuk M3141, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ada nama/kode/jumlah yang belum jelas pada nota.
+
+K044 | M0042
+Pak Adi, untuk M0042, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Nota 8 September dikirim di chat 11 September; jangan mengubahnya menjadi pembelian tanggal chat.
+
+K045 | M0153
+Pak Adi, untuk M0153, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Foto yang sama dikirim ulang pada M0203 (00003204). Dicatat satu invoice, bukan pembelian kedua.
+
+K046 | M0325
+Pak Adi, untuk M0325, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Nota 16 September dikirim ulang 17 September. Rujuk juga M0267; bukan otomatis dua transaksi.
+
+K047 | M0493
+Pak Adi, untuk M0493, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Nama pembeli di invoice BP. ENDRIK (CASH); tujuan alat berasal dari chat, perlu konfirmasi hubungan pembeli.
+
+K048 | M1349
+Pak Adi, untuk M1349, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: M1349 memotong kas 188.000, sehingga sisa transfer 112.000. Nilai barang tetap 300.000; jangan tambah sisa transfer sebagai barang baru.
+
+K049 | M1455
+Pak Adi, untuk M1455, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Nilai invoice 1.615.000; chat mengurangi 300.000 baut sproket lama sehingga transfer 1.315.000. Butuh rekonsiliasi pembayaran, bukan mengubah harga invoice.
+
+K050 | M2646
+Pak Adi, untuk M2646, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Chat detail tertulis 3.300.00, tetapi angka lengkap pada invoice dan rangkuman M2648 adalah 3.300.000.
+
+K051 | M0018
+Pak Adi, untuk M0018, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Paket pipa dan behel ditimbang bersama; bukan harga per pcs pipa.
+
+K052 | M0019
+Pak Adi, untuk M0019, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K053 | M0020
+Pak Adi, untuk M0020, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Nota jasa reparasi, bukan pembelian radiator baru.
+
+K054 | M0021
+Pak Adi, untuk M0021, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Tanggal nota 9 September, dikirim di chat 10 September.
+
+K055 | M0029
+Pak Adi, untuk M0029, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K056 | M0030
+Pak Adi, untuk M0030, mohon pastikan nilai bruto, nilai retur/tukar tambah dan pembayaran bersihnya. Barang apa yang dikembalikan, berapa jumlahnya, dan nota mana yang dikoreksi?
+Hal yang dicek: Chat salah ketik 750.00p; nilai 750.000 terbaca pada faktur. Tukar tambah, bukan harga aki baru penuh.
+
+K057 | M0040
+Pak Adi, untuk M0040, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K058 | M0092
+Pak Adi, untuk M0092, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Harga satuan per galon/kemasan yang tertulis; bukan otomatis harga per liter.
+
+K059 | M0168
+Pak Adi, untuk M0168, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Satu foto berisi dua nota. Subtotal tertulis atas 1.120.000 dan bawah 110.000, total sesuai chat 1.230.000. Pembacaan seluruh baris atas berjumlah 1.210.000 (selisih 90.000); cek baris rumah sekring dan koreksi/coretan nota.
+
+K060 | M0168
+Pak Adi, untuk M0168, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K061 | M0244
+Pak Adi, untuk M0244, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Nota menulis oli mesin, caption menyebut oli gearbox. Konfirmasi jenis oli sebelum digabung ke daftar harga.
+
+K062 | M0336
+Pak Adi, untuk M0336, mohon pastikan nilai bruto, nilai retur/tukar tambah dan pembayaran bersihnya. Barang apa yang dikembalikan, berapa jumlahnya, dan nota mana yang dikoreksi?
+Hal yang dicek: Nota menulis penggantian tipe N120 ke NS150; 500.000 adalah biaya tukar tambah, bukan harga dua aki baru.
+
+K063 | M0337
+Pak Adi, untuk M0337, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K064 | M0338
+Pak Adi, untuk M0338, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Ukuran selang dibaca visual; rincian kode fitting yang kurang jelas belum dinormalisasi.
+
+K065 | M0399
+Pak Adi, untuk M0399, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K066 | M0400
+Pak Adi, untuk M0400, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Angka dan jumlah dicocokkan setelah foto diperbesar dan diputar untuk dibaca. Jumlah baris 1.992.000; beberapa nama teknis tetap perlu konfirmasi.
+
+K067 | M3248
+Pak Adi, untuk M3248, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Dua nota pada foto: 785.000 + 881.000 = 1.666.000, sesuai chat. Jangan menghitung subtotal dan paket dua kali.
+
+K068 | M3248
+Pak Adi, untuk M3248, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Pembacaan ulang gambar yang diperbesar menunjukkan nilai 50.000 dan 10.000 pada dua baris bohlam. Jumlah baris cocok 881.000; tulisan kuantitas salah satu baris tetap perlu konfirmasi.
+
+K069 | M3205
+Pak Adi, untuk M3205, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K070 | M2974
+Pak Adi, untuk M2974, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K071 | M3086
+Pak Adi, untuk M3086, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Paket dipakai untuk tiga tujuan; pembagian biaya per alat belum tertulis.
+
+K072 | M0484
+Pak Adi, untuk M0484, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K073 | M0510
+Pak Adi, untuk M0510, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K074 | M0511
+Pak Adi, untuk M0511, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Caption menyebut Kobelco; rangkuman M0587 menyebut Komatsu longarm. Tujuan alat perlu konfirmasi, harga tidak dipindah antar alat otomatis.
+
+K075 | M0594
+Pak Adi, untuk M0594, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: PENTING: subtotal pada nota 1.165.000, caption chat M0594 tertulis 1.105.000. Selisih 60.000 belum diselesaikan. Harga/baris nota tidak diganti mengikuti caption.
+
+K076 | M0679
+Pak Adi, untuk M0679, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K077 | M0681
+Pak Adi, untuk M0681, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K078 | M0683
+Pak Adi, untuk M0683, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Kode fitting sebagian kurang jelas; ukuran selang dan jumlah mengikuti tulisan yang terbaca.
+
+K079 | M0811
+Pak Adi, untuk M0811, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Foto identik SHA-256 dikirim ulang di M0884 dengan caption kapal Ratim. Dicatat satu nota sumber, bukan dua pembelian.
+
+K080 | M0931
+Pak Adi, untuk M0931, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Perlengkapan kantor, bukan sparepart alat.
+
+K081 | M1240
+Pak Adi, untuk M1240, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K082 | M1241
+Pak Adi, untuk M1241, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K083 | M1242
+Pak Adi, untuk M1242, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Screenshot menunjukkan pemesanan masih dalam perjalanan. Ini nominal pesanan, bukan konfirmasi layanan selesai; biaya operasional, bukan sparepart.
+
+K084 | M1307
+Pak Adi, untuk M1307, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Nama alat pada caption dan rangkuman tidak sama persis; tujuan alat belum diputuskan otomatis.
+
+K085 | M1383
+Pak Adi, untuk M1383, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K086 | M1399
+Pak Adi, untuk M1399, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K087 | M1418
+Pak Adi, untuk M1418, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: M1432 adalah foto lain nota 10066 yang sama: tanggal, barang dan total sama. M1572 pengiriman ulang. Dicatat sekali.
+
+K088 | M1430
+Pak Adi, untuk M1430, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: M1569 mengirim ulang gambar identik; bukan tambahan pembelian terkonfirmasi.
+
+K089 | M1431
+Pak Adi, untuk M1431, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: M1571 mengulang gambar; caption 1.515.000 mencakup nota 765.000 dan pantek 750.000. Jangan hitung paket dan komponennya bersamaan.
+
+K090 | M1435
+Pak Adi, untuk M1435, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Paket jasa/material pantek; bukan harga kampas lepas yang sudah dipastikan.
+
+K091 | M1436
+Pak Adi, untuk M1436, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K092 | M1505
+Pak Adi, untuk M1505, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Dua nota pada foto berjumlah 905.000, sesuai caption.
+
+K093 | M1507
+Pak Adi, untuk M1507, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Total dua nota 225.000; caption 229.000. Selisih 4.000 belum dijelaskan.
+
+K094 | M1507
+Pak Adi, untuk M1507, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Angka 95.000 dibaca ulang pada foto asli; total foto 225.000 berbeda caption 229.000.
+
+K095 | M1508
+Pak Adi, untuk M1508, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K096 | M1510
+Pak Adi, untuk M1510, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Dua nota satu foto untuk tujuan berbeda; tidak seluruh paket dialokasikan ke Amien.
+
+K097 | M1573
+Pak Adi, untuk M1573, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Tahun nota terbaca 24, sedangkan dikirim 9 Oktober 2026. Tahun tidak diubah otomatis; perlu konfirmasi.
+
+K098 | M1602
+Pak Adi, untuk M1602, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K099 | M1662
+Pak Adi, untuk M1662, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Total dua nota 637.000 + 750.000 = 1.387.000, sesuai caption.
+
+K100 | M1665
+Pak Adi, untuk M1665, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K101 | M1760
+Pak Adi, untuk M1760, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K102 | M1761
+Pak Adi, untuk M1761, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K103 | M1599
+Pak Adi, untuk M1599, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K104 | M1601
+Pak Adi, untuk M1601, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K105 | M1825
+Pak Adi, untuk M1825, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Paket untuk dua tujuan; pembagian biaya per tujuan belum tersedia. Kode fanbelt dan nama baris kedua perlu pembacaan ulang.
+
+K106 | M1826
+Pak Adi, untuk M1826, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K107 | M1944
+Pak Adi, untuk M1944, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K108 | M1944
+Pak Adi, untuk M1944, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: APAR dan komponen pada nota bawah untuk Ito; nota atas untuk Warno. Total foto 575.000.
+
+K109 | M2067
+Pak Adi, untuk M2067, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Paket untuk Tajri dan Warno; pembagian baris per kendaraan belum tersedia.
+
+K110 | M2084
+Pak Adi, untuk M2084, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K111 | M2204
+Pak Adi, untuk M2204, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K112 | M2335
+Pak Adi, untuk M2335, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K113 | M2415
+Pak Adi, untuk M2415, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Caption menyebut oli 10; nota menyatakan 12 liter. Jumlah mengikuti nota, perbedaan dicatat.
+
+K114 | M2416
+Pak Adi, untuk M2416, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Subtotal 1.410.000 terbaca; nilai/nama baris pertama masih perlu foto diperbesar. Rincian belum lengkap.
+
+K115 | M2558
+Pak Adi, untuk M2558, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Nota mencantumkan angka total lama 1.230.000 dan koreksi 1.333.000; jumlah baris cocok total koreksi/caption. Tujuan tiga kendaraan belum terurai per barang.
+
+K116 | M2560
+Pak Adi, untuk M2560, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K117 | M2587
+Pak Adi, untuk M2587, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K118 | M2588
+Pak Adi, untuk M2588, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Surat jalan: 5 botol isi dan 6 tabung kosong; harga untuk isi oksigen, bukan pembelian tabung. Tanggal nota terbaca 26/10; dikirim 27/10.
+
+K119 | M2616
+Pak Adi, untuk M2616, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: M2667 menampilkan kembali nota tanggal/penjual/barang/angka dan bentuk tulisan sama, dengan tambahan tulisan tujuan. Dicatat sekali di M2616; keterkaitan foto ditandai.
+
+K120 | M2664
+Pak Adi, untuk M2664, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Nilai sama dengan M2587 tetapi tanggal dan tujuan berbeda; tidak otomatis dianggap duplikat.
+
+K121 | M2667
+Pak Adi, untuk M2667, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Foto juga memuat nota kawat las 590.000 yang sudah dicatat pada M2616. Caption 985.000 = nota ini 395.000 + nota kawat 590.000; jangan menghitung ulang kawat.
+
+K122 | M2709
+Pak Adi, untuk M2709, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K123 | M2710
+Pak Adi, untuk M2710, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K124 | M2712
+Pak Adi, untuk M2712, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K125 | M2753
+Pak Adi, untuk M2753, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Caption menyebut kawat las + LPG 1.230.000; foto hanya memperlihatkan kawat 1.180.000. Selisih 50.000 belum didukung rincian LPG; tidak diisikan sebagai harga LPG otomatis.
+
+K126 | M2754
+Pak Adi, untuk M2754, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K127 | M2755
+Pak Adi, untuk M2755, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K128 | M2814
+Pak Adi, untuk M2814, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K129 | M2914
+Pak Adi, untuk M2914, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/spesifikasi atau nilai baris perlu konfirmasi.
+
+K130 | M2979
+Pak Adi, untuk M2979, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Dua lembar pada satu foto; total 4.387.000 mencakup seluruh 18 baris. Kuantitas galon mengikuti singkatan pada nota, kapasitas liter galon belum diketahui.
+
+K131 | M0023
+Pak Adi, untuk M0023, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Nota Juli dikirim September disertai pertanyaan pelunasan; bukan pembelian September yang pasti.
+
+K132 | M0205
+Pak Adi, untuk M0205, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K133 | M0247
+Pak Adi, untuk M0247, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Baris harian berjumlah 20 orang-hari; bukan stok sparepart.
+
+K134 | M0260
+Pak Adi, untuk M0260, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K135 | M0347
+Pak Adi, untuk M0347, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Invoice menulis lunas tunai; biaya kantor.
+
+K136 | M0364
+Pak Adi, untuk M0364, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Caption menyebut oli hidrolik, nota menyebut oli mesin. Jenis oli perlu konfirmasi.
+
+K137 | M0381
+Pak Adi, untuk M0381, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K138 | M0381
+Pak Adi, untuk M0381, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K139 | M0406
+Pak Adi, untuk M0406, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K140 | M0407
+Pak Adi, untuk M0407, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Caption menyebut 2 set, nota terbaca 1 set. Kuantitas perlu konfirmasi.
+
+K141 | M0411
+Pak Adi, untuk M0411, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Transfer/rangkuman 2.645.000; surat menyebut 2.644.565. Selisih 435; bukan biaya sparepart.
+
+K142 | M0540
+Pak Adi, untuk M0540, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K143 | M0650
+Pak Adi, untuk M0650, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K144 | M0727
+Pak Adi, untuk M0727, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K145 | M0748
+Pak Adi, untuk M0748, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K146 | M0749
+Pak Adi, untuk M0749, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K147 | M0750
+Pak Adi, untuk M0750, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K148 | M0752
+Pak Adi, untuk M0752, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K149 | M0775
+Pak Adi, untuk M0775, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Caption 5.000 adalah jumlah karung, bukan harga Rp5.000. M0887 berisi nota isi sama bertanggal 25/9; hubungan perlu konfirmasi sebelum dijumlahkan.
+
+K150 | M0777
+Pak Adi, untuk M0777, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K151 | M0777
+Pak Adi, untuk M0777, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K152 | M0781
+Pak Adi, untuk M0781, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Sebagian kuantitas/harga tidak jelas; jumlah baris terbaca 940.000 berbeda subtotal 980.000. Jangan koreksi nilai dari selisih.
+
+K153 | M0856
+Pak Adi, untuk M0856, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K154 | M0889
+Pak Adi, untuk M0889, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Tanggal tulisan kurang jelas; foto dikirim 25/9, tanggal terbaca 26/9.
+
+K155 | M0935
+Pak Adi, untuk M0935, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Caption mengurangi retur tapak kopel 575.000. Nota baru bruto 1.950.000, tambahan bersih menurut caption 1.375.000; retur terkait M0856, jangan hitung seluruhnya tanpa koreksi.
+
+K156 | M0940
+Pak Adi, untuk M0940, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K157 | M1059
+Pak Adi, untuk M1059, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K158 | M1060
+Pak Adi, untuk M1060, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K159 | M1061
+Pak Adi, untuk M1061, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K160 | M1094
+Pak Adi, untuk M1094, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Harga termasuk PPN; pembayaran tertulis piutang, jatuh tempo 30/10/26. Bukan bukti pelunasan.
+
+K161 | M1098
+Pak Adi, untuk M1098, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Caption menyebut tambahan baut; nota menyebut rubber tooth head. Pisah dari nota 04779, jangan ubah nama menjadi baut.
+
+K162 | M1105
+Pak Adi, untuk M1105, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: Caption menyatakan belum dibayar saat dikirim; status pelunasan berikutnya perlu bukti.
+
+K163 | M1217
+Pak Adi, untuk M1217, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Tanggal nota 14/9 dikirim 1/10; perlu konfirmasi hubungan dengan nota servis sebelumnya.
+
+K164 | M1217
+Pak Adi, untuk M1217, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K165 | M1092
+Pak Adi, untuk M1092, apakah proforma ini sudah menjadi pembelian? Jika sudah, mohon invoice final, barang/jumlah yang benar-benar diterima, nilai setelah pajak dan bukti pembayarannya.
+Hal yang dicek: PROFORMA, bukan pembelian terkonfirmasi. Harga satuan sebelum PPN 135.135,13 dan 99.877,47; nilai baris termasuk PPN. Jangan bandingkan angka sebelum/sesudah pajak tanpa penyesuaian.
+
+K166 | M1309
+Pak Adi, untuk M1309, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K167 | M1315
+Pak Adi, untuk M1315, apakah proforma ini sudah menjadi pembelian? Jika sudah, mohon invoice final, barang/jumlah yang benar-benar diterima, nilai setelah pajak dan bukti pembayarannya.
+Hal yang dicek: PROFORMA. Nilai baris termasuk PPN menurut catatan; subtotal sebelum PPN10.509.279, PPN1.156.021, meterai10.000. Bukan pembelian pasti.
+
+K168 | M1367
+Pak Adi, untuk M1367, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Jumlah baris terbaca 8.225.000; beberapa spesifikasi tulisan perlu konfirmasi.
+
+K169 | M1404
+Pak Adi, untuk M1404, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K170 | M1437
+Pak Adi, untuk M1437, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K171 | M1439
+Pak Adi, untuk M1439, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K172 | M1481
+Pak Adi, untuk M1481, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K173 | M1513
+Pak Adi, untuk M1513, apakah proforma ini sudah menjadi pembelian? Jika sudah, mohon invoice final, barang/jumlah yang benar-benar diterima, nilai setelah pajak dan bukti pembayarannya.
+Hal yang dicek: PROFORMA; harga barang sebelum PPN, total termasuk pajak dan meterai. Bukan transaksi pasti.
+
+K174 | M1533
+Pak Adi, untuk M1533, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K175 | M1615
+Pak Adi, untuk M1615, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K176 | M1624
+Pak Adi, untuk M1624, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Tanggal nota 10/10 sedangkan chat 9/10; perlu konfirmasi tanggal.
+
+K177 | M1767
+Pak Adi, untuk M1767, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Nota tanggal 4/9 dikirim 12/10; hubungan dengan servis lama perlu konfirmasi.
+
+K178 | M1767
+Pak Adi, untuk M1767, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Nota Juli dikirim Oktober; bukan otomatis pekerjaan baru Oktober.
+
+K179 | M1772
+Pak Adi, untuk M1772, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K180 | M1890
+Pak Adi, untuk M1890, barang dan biaya ini untuk alat/kendaraan/kapal yang mana? Mohon pembagian nama barang, jumlah dan nilai per tujuan; apakah ada pihak pembeli lain yang perlu dicatat?
+Hal yang dicek: APAR/P3K untuk longarm, rotari untuk Komatsu Ito menurut caption; pembagian barang tetap mengikuti caption.
+
+K181 | M1900
+Pak Adi, untuk M1900, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K182 | M1901
+Pak Adi, untuk M1901, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K183 | M1904
+Pak Adi, untuk M1904, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K184 | M1920
+Pak Adi, untuk M1920, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K185 | M1934
+Pak Adi, untuk M1934, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Caption/subtotal 168.000; rincian pertama tampak 2 set atau 12 set dan nilai 16.000 atau 160.000. Tidak dibetulkan berdasarkan selisih; kuantitas/nilai perlu konfirmasi.
+
+K186 | M1938
+Pak Adi, untuk M1938, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K187 | M1999
+Pak Adi, untuk M1999, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K188 | M2021
+Pak Adi, untuk M2021, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Nota September dikirim16/10; tidak otomatis pembelian baru16/10.
+
+K189 | M2024
+Pak Adi, untuk M2024, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: 2+2+3+3+3+3 orang per hari. Rincian tagihan mingguan, bukan sparepart.
+
+K190 | M2057
+Pak Adi, untuk M2057, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K191 | M2059
+Pak Adi, untuk M2059, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K192 | M2087
+Pak Adi, untuk M2087, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: 5 botol isi, 6 botol kosong; harga isi ulang, bukan harga tabung.
+
+K193 | M2152
+Pak Adi, untuk M2152, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K194 | M2186
+Pak Adi, untuk M2186, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Paket untuk tiga tujuan; pembagian per alat belum dirinci.
+
+K195 | M2188
+Pak Adi, untuk M2188, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Stamp tanggal tampak9/10; chat19/10. Tahun/tanggal perlu konfirmasi bila dipakai sebagai tanggal transaksi.
+
+K196 | M2194
+Pak Adi, untuk M2194, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Kop surat2rim425.000 juga muncul kuitansi8/10 M1747. Kaitan kemungkinan tagihan gabungan; jangan menjumlahkan ulang425.000 sebelum konfirmasi.
+
+K197 | M2248
+Pak Adi, untuk M2248, angka mana yang benar untuk jumlah barang, harga dan total akhirnya? Mohon rincian per baris atau foto nota yang jelas serta penjelasan selisih/koreksinya.
+Hal yang dicek: Angka subtotal dicoret/kurang jelas; nilai baris kedua juga perlu konfirmasi. Tidak dianggap total pembelian tervalidasi.
+
+K198 | M2265
+Pak Adi, untuk M2265, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K199 | M2356
+Pak Adi, untuk M2356, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K200 | M2377
+Pak Adi, untuk M2377, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K201 | M2387
+Pak Adi, untuk M2387, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K202 | M2392
+Pak Adi, untuk M2392, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Caption225.000 hanya oli; nota total255.000 termasuk baut.
+
+K203 | M2446
+Pak Adi, untuk M2446, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K204 | M2475
+Pak Adi, untuk M2475, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Rincian tulisan sebagian perlu konfirmasi; harga paket tidak digunakan sebagai harga satuan komponennya.
+
+K205 | M2597
+Pak Adi, untuk M2597, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K206 | M2637
+Pak Adi, untuk M2637, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K207 | M2702
+Pak Adi, untuk M2702, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Nota lama dikirim sebagai pembayaran29/10; jangan diasumsikan pekerjaan baru Oktober.
+
+K208 | M2702
+Pak Adi, untuk M2702, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Nota lama dikirim sebagai pembayaran29/10; kemungkinan terkait pembayaran servis lain, perlu konfirmasi duplikasi.
+
+K209 | M2740
+Pak Adi, untuk M2740, bagaimana status pembayarannya: belum dibayar, sebagian atau lunas? Mohon tanggal, nominal dan bukti bayar serta kaitan dengan tagihan/uang muka sebelumnya.
+Hal yang dicek: Harga termasuk PPN. Pembayaran tertulis PIUTANG; bukan bukti lunas.
+
+K210 | M2742
+Pak Adi, untuk M2742, mohon pastikan jumlah isi ulang yang dibayar, tarif per isi dan jumlah tabung kosong yang dikembalikan. Apakah ada pembelian/sewa tabung atau hanya isi ulang?
+Hal yang dicek: 5 botol isi diterima,4 kosong dikembalikan; bukan pembelian5 tabung baru.
+
+K211 | M2810
+Pak Adi, untuk M2810, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Rincian nama/kode tulisan perlu konfirmasi; penjumlahan baris perlu diperiksa terhadap total nota.
+
+K212 | M2817
+Pak Adi, untuk M2817, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: 6orang25/10 dan7orang/hari26–29/10.
+
+K213 | M2873
+Pak Adi, untuk M2873, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Rincian nama/angka tulisan perlu konfirmasi; harga paket bukan harga masing-masing komponen.
+
+K214 | M2874
+Pak Adi, untuk M2874, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Angka3.655.000 tertulis terpisah di atas; bukan total baris nota435.000.
+
+K215 | M2922
+Pak Adi, untuk M2922, mohon pastikan tanggal transaksi/pekerjaan sebenarnya dan apakah ini nota lama yang dikirim saat penagihan/pembayaran. Apakah transaksi ini sudah masuk rekap sebelumnya?
+Hal yang dicek: Dikirim2/11; tanggal pekerjaan pada nota14/10.
+
+K216 | M2924
+Pak Adi, untuk M2924, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K217 | M2925
+Pak Adi, untuk M2925, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K218 | M3097
+Pak Adi, untuk M3097, apakah proforma ini sudah menjadi pembelian? Jika sudah, mohon invoice final, barang/jumlah yang benar-benar diterima, nilai setelah pajak dan bukti pembayarannya.
+Hal yang dicek: PROFORMA, bukan bukti pembelian/lunas. Harga satuan cetak sebelum PPN178378/375676/732432; jumlah baris termasuk PPN.
+
+K219 | M3191
+Pak Adi, untuk M3191, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K220 | M3195
+Pak Adi, untuk M3195, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K221 | M3209
+Pak Adi, untuk M3209, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K222 | M3216
+Pak Adi, untuk M3216, mohon pastikan jumlah isi ulang yang dibayar, tarif per isi dan jumlah tabung kosong yang dikembalikan. Apakah ada pembelian/sewa tabung atau hanya isi ulang?
+Hal yang dicek: Pengembalian6tabung oxygen kosong; bukan pembelian tabung baru.
+
+K223 | M3240
+Pak Adi, untuk M3240, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K224 | M1480
+Pak Adi, untuk M1480, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nama/kode atau nilai baris perlu konfirmasi.
+
+K225 | M0077
+Pak Adi, untuk M0077, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K226 | M0246
+Pak Adi, untuk M0246, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K227 | M0314
+Pak Adi, untuk M0314, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K228 | M0355
+Pak Adi, untuk M0355, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K229 | M0361
+Pak Adi, untuk M0361, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K230 | M0370
+Pak Adi, untuk M0370, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K231 | M0467
+Pak Adi, untuk M0467, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K232 | M0504
+Pak Adi, untuk M0504, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Permintaan / daftar kebutuhan, belum bukti pembelian; harga tidak tercantum
+
+K233 | M0887
+Pak Adi, untuk M0887, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Nota karung 5.000 lembar + ongkir 4.750.000, isi sama M0775 tetapi tanggal 25/9 versus 21/9. Kandidat duplikat; tidak ditambah sebelum konfirmasi.
+
+K234 | M0966
+Pak Adi, untuk M0966, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Surat jalan semen; jumlah kiriman tercantum, harga tidak tercantum. Bukan nota sparepart.
+
+K235 | M1063
+Pak Adi, untuk M1063, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Daftar kebutuhan gearbox BMS4 tanpa harga. Acuan pengadaan; bukan transaksi tambahan terhadap nota M1097.
+
+K236 | M1389
+Pak Adi, untuk M1389, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Invoice penjualan/jasa angkutan PT BMS kepada pelanggan, bukan pembelian sparepart; tidak dimasukkan ke total pembelian.
+
+K237 | M1855
+Pak Adi, untuk M1855, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Daftar kebutuhan gearbox MR170 KM BMS20, tanpa harga. Bukan pembelian tambahan.
+
+K238 | M1966
+Pak Adi, untuk M1966, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Surat jalan kubus beton proyek; tidak mencantumkan harga dan bukan nota sparepart.
+
+K239 | M2075
+Pak Adi, untuk M2075, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Surat jalan kubus beton proyek; tidak mencantumkan harga dan bukan nota sparepart.
+
+K240 | M2076
+Pak Adi, untuk M2076, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Surat jalan kubus beton proyek; tidak mencantumkan harga dan bukan nota sparepart.
+
+K241 | M2540
+Pak Adi, untuk M2540, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Form permintaan sparepart; belum bukti pembelian/harga. Rincian tersedia pada gambar sumber.
+
+K242 | M3026
+Pak Adi, untuk M3026, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Foto nota juga dirujuk M3027; hindari penghitungan ulang. Total tertulis1.500.000 dengan angka2.585.000 terpisah; rujuk rincian/catatan nota terkait.
+
+K243 | M0252
+Pak Adi, untuk M0252, mohon ketik nama/kode dan spesifikasi barang yang benar beserta jumlah, satuan, harga satuan serta totalnya sesuai nota; bagian yang kabur belum dapat dipastikan.
+Hal yang dicek: Nota tulisan belum dapat dirinci dengan andal; lihat gambar dan OCR sumber, harga komponen belum disimpulkan.
+
+K244 | M1385
+Pak Adi, untuk M1385, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Foto nota joint kopel80/71 sama dengan M1386; satu transaksi850.000, tidak dijumlahkan dua kali.
+
+K245 | M1536
+Pak Adi, untuk M1536, apakah bukti-bukti ini merujuk transaksi yang sama atau pembelian terpisah? Mohon sebutkan tanggal transaksi, nomor nota dan total yang seharusnya dihitung satu kali.
+Hal yang dicek: Nota10068 sama dengan M1480; foto/caption dikirim ulang.
+
+K246 | M1571
+Pak Adi, untuk M1571, mohon pastikan satuan/isi kemasan dan rincian barang atau jasa dalam paket ini. Berapa jumlah dan harga tiap komponen, dan apakah harga sudah termasuk pajak/ongkos?
+Hal yang dicek: Nota6/10 paket765.000 juga tercatat M1431; caption1.515.000 menggabungkan nota lain. Tidak dihitung sebagai pembelian baru.
+
+K247 | M2936
+Pak Adi, untuk M2936, apakah daftar ini sudah dibeli/diterima atau masih permintaan? Jika sudah, mohon nota serta nama barang, jumlah, satuan, harga dan tujuan pemakaiannya.
+Hal yang dicek: Daftar kebutuhan material KM Insha IV tanpa harga; bukan nota pembelian. Berkaitan dengan nota material M2944.
+
+K248 | M2986
+Pak Adi, untuk M2986, mohon pastikan uraian dan perlakuan pencatatannya. Apakah masuk pembelian sparepart, jasa, biaya operasional atau dokumen pendukung saja, dan apa rincian pendukungnya?
+Hal yang dicek: Foto nota oli10liter450.000 sama dengan M2942; tidak dihitung dua kali.
